@@ -1,7 +1,7 @@
 MailChamp
 =========
 
-Benchmark/competiton for Transactional Email providers
+Benchmark/competition for Transactional Email providers
 
   Usage
 
