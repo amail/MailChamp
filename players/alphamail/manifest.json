@@ -1,0 +1,13 @@
+{
+    "id": "alphamail",
+    "name": "AlphaMail",
+    "version": "0.1.00",
+    "description": "AlphaMail is a REST-based Transactional Email service only.",
+    "author": "Robin Orheden <robin@comfirm.se>",
+    "homepage_url": "http://amail.io/",
+    "default_config": {
+        "service_url": "http://api.amail.io/",
+        "api_token": null,
+        "project_id": 0
+    }
+}
